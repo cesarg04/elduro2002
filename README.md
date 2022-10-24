@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.cesargarciadev.com/](https://www.cesargarciadev.com/)
 
-- 💬 Ask me about **vue, node js, express**
+- 💬 Ask me about **vue, node js, express, react**
 
 - 📫 How to reach me **elduro2002_@hotmail.com**
 
