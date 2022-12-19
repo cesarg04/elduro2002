@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">Web developer from Dominican Republic</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.cesargarciadev.com/](https://www.cesargarciadev.com/)
 
