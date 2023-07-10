@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">Web developer from Dominican Republic</h3>
 
-- 🌱 I’m currently learning **NestJS**
+  - 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://www.cesargarciadev.com/](https://www.cesargarciadev.com/)
 
 - 💬 Ask me about **vue, node js, express, react**
 
-- 📫 How to reach me **elduro2002_@hotmail.com**
+- 📫 How to reach me **cesaralbertog47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
