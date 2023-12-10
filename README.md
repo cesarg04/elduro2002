@@ -3,7 +3,7 @@
 
   - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [https://www.cesargarciadev.com/](https://www.cesargarciadev.com/)
+- 👨‍💻 All of my projects are available at [cesargarciadev.netlify.app/](https://cesargarciadev.netlify.app)
 
 - 💬 Ask me about **vue, node js, express, react**
 
