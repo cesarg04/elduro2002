@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cesar</h1>
 <h3 align="center">Web developer from Dominican Republic</h3>
 
-  - 🌱 I’m currently learning **C#**
+  - 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [cesargarciadev.netlify.app/](https://cesargarciadev.netlify.app)
 
